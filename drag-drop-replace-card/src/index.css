@@ -1,0 +1,31 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+body{
+  /* background-color: brown; */
+}
+.card-container{
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 6px;
+  margin-top: 42px;
+}
+.card{
+  display: flex;
+  gap: 1em;
+  width: 120px;
+  background-color: white;
+  border-radius: 5px;
+  padding: 4px;
+  cursor: pointer;
+}
+.card img{
+  width: 55px;
+  height: 50px;
+}
+.card div{
+  font-size: 12px;
+}
