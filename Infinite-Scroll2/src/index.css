@@ -1,0 +1,21 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+ 
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+  flex-wrap: wrap;
+}
+.container img{
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+}
+.loader{
+  text-align: center;
+  padding: 2em;
+}
