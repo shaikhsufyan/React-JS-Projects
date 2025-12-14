@@ -1,0 +1,47 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  /* line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+}
+ .searchBar{
+   display: flex;
+   justify-content: center;
+   margin-top: 33px;
+ }
+ .searchBar input{
+   width: 500px;
+   padding: 8px;
+   font-size: 18px;
+   border: 1px solid black;
+
+ }
+ h1{
+   text-align: center;
+ }
+ .datas{
+   display: flex;
+   justify-content: center;
+   gap: 11px;
+   margin-top: 11px;
+   flex-wrap: wrap;
+ }
+ .datas img{
+   width: 200px;
+   height: 330px;
+ }
+
+ input{
+  width: 500px;
+  padding: 8px;
+  font-size: 18px;
+  border: 1px solid black;
+ }
