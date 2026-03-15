@@ -1,0 +1,72 @@
+{
+  "skills": [
+    {
+      "id": "001",
+      "name": "JS"
+    },
+    {
+      "id": "ea56"
+    },
+    {
+      "id": "981",
+      "name": "JS"
+    },
+    {
+      "id": "438",
+      "name": "HTML"
+    },
+    {
+      "id": "45",
+      "name": "CSS"
+    },
+    {
+      "id": "941",
+      "name": "Node"
+    },
+    {
+      "id": "668",
+      "name": "Express"
+    },
+    {
+      "id": "582",
+      "name": "Git"
+    },
+    {
+      "id": "556",
+      "name": "Github"
+    },
+    {
+      "id": "768",
+      "name": "Github"
+    },
+    {
+      "id": "776",
+      "name": "docker"
+    },
+    {
+      "id": "599",
+      "name": "code"
+    },
+    {
+      "id": "30",
+      "name": "jss"
+    },
+    {
+      "id": "337",
+      "name": "json"
+    },
+    {
+      "id": "250",
+      "name": "mongo"
+    },
+    {
+      "id": 390,
+      "name": "mongo DB"
+    },
+    {
+      "id": 952,
+      "name": "coding"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
