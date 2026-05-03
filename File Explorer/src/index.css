@@ -1,0 +1,17 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+   
+}
+ 
+.container{
+  border-left: 1px solid black;
+  padding-left: 0.5em;
+}
+.container img{
+  width: 1.5em;
+  
+}
+.name{
+  margin: 0.5em;
+  cursor: pointer;
+}
